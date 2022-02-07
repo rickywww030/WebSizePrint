@@ -1,0 +1,16 @@
+{
+"companyName": "Artrice",
+"productName": "Project_WebGL_G01_20220111_1241",
+"productVersion": "0.1",
+"dataUrl": "WebSize_TT_20220207_1016.data.unityweb",
+"wasmCodeUrl": "WebSize_TT_20220207_1016.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebSize_TT_20220207_1016.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
