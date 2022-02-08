@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Project_WebGame_20220208_1301",
+"productVersion": "0.1",
+"dataUrl": "Web_Demo_20220208_1322.data.unityweb",
+"wasmCodeUrl": "Web_Demo_20220208_1322.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web_Demo_20220208_1322.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.18f1"
+}
